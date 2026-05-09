@@ -7,3 +7,5 @@ This repository is for:
 - Distribution of public resources and docs
 - Issue tracking
 - Discussion
+
+<img width="512" height="512" alt="AgentKanban logo" src="https://github.com/user-attachments/assets/b1f26f32-4d9d-4dea-8825-64e064b814b0" />
