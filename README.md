@@ -4,5 +4,6 @@ This is the public repository for AgentKanban ([agentkanban.io](https://www.agen
 
 This repository is for:
 
-- Distribution of public resources
+- Distribution of public resources and docs
 - Issue tracking
+- Discussion
